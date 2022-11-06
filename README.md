@@ -1,5 +1,5 @@
 # Построение модели, прогнозирующей отток клиентов банка
-Стек: python, pandas, matplotlib, seaborn, numpy, sklearn, imblearn
+Стек: python, pandas, matplotlib, seaborn, numpy, sklearn, imblearn  
 Изучаем данные, обучаем модели, избавляемся от дисбаланса с помощью SMOTE, улучшаем модели с помощью GridSearch.
 
 ## Описание целей и задачи проекта
